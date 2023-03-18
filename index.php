@@ -1,4 +1,5 @@
 <?php
-//firstApp/index.php
 
-echo "hello!" ;
+echo "see you";
+ 
+?>
